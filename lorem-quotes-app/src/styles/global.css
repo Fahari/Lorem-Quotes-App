@@ -7,3 +7,10 @@ body{
     font-weight: normal;
     letter-spacing: .12rem;
 }
+a{
+    color: rgb(165, 243, 47);
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}

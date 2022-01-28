@@ -4,7 +4,7 @@
     ducimus voluptate necessitatibus sit nobis illo, consequatur quaerat
     voluptatem quam dolore odit sed expedita ipsa error, illum vitae a itaque?
   </p>
-  <p><a href="/guides">View Guides</a></p>
+  <p><a href="/quotes">View Quotes</a></p>
   <p><a href="/about">About</a></p>
 </div>
 

@@ -11,7 +11,7 @@
     Voluptate quisquam facilis itaque, odio doloribus delectus rerum laudantium,
     asperiores molestias quis, eos saepe?
   </p>
-  <p><a href="/guides">Guides</a></p>
+  <p><a href="/quotes">Quotes</a></p>
   <p><a href="/">Home</a></p>
 </div>
 

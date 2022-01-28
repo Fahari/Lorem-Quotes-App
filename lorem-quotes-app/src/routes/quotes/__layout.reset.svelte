@@ -3,7 +3,7 @@
     import '../../styles/global.css';
   </script>
 <header class="head">
-<Title title="Guides"/>
+<Title title="Quotes"/>
 </header>
 <main class="content">
 <slot></slot>
